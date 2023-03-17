@@ -40,6 +40,6 @@ console.log(favoriteColor);
 
 
 
-document.getElementById('login').innerHTML += nameUser + ' ' + surnameUser + ' ' + favoriteColor
+document.getElementById('login').innerHTML += nameUser + surnameUser + favoriteColor + 23
 
 
